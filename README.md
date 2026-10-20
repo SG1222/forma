@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Forma%20Icon.png" width="128" alt="Forma app icon">
+</p>
+
 # Forma
 
 Forma is a native Android photo journal that works completely offline. Log is a private photo library, Compare is a two-image workspace, and Streaks is a Monday-first weekly record.
