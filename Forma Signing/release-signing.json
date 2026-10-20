@@ -1,0 +1,7 @@
+{
+  "keystore": "/Users/shouryagupta/Documents/Forma Signing/forma-release.p12",
+  "storeType": "PKCS12",
+  "alias": "forma-release",
+  "storePassword": "GiVeCx2zh_2onEM_TcyYAbDezB8XOnCXwU0YBfRhLclNdP9x",
+  "keyPassword": "GiVeCx2zh_2onEM_TcyYAbDezB8XOnCXwU0YBfRhLclNdP9x"
+}

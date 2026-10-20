@@ -1,0 +1,3 @@
+Forma release signing material. Keep this folder private and back it up securely.
+The JSON contains the keystore passwords. Do not share it or include either file in source archives.
+The new release certificate cannot update old debug-signed installations. Losing the key prevents future updates under this release identity.
